@@ -17,6 +17,7 @@ public class DemoApplication {
 	String sayHello() {
 		System.out.println("Hello world logs test===>");
 		System.out.println("welcome to devops");
+		System.out.println("welcome to pr in devops");
 
 		return "Hello  azure cloud World logs !!!!!!!";
 		
