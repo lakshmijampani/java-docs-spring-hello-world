@@ -19,7 +19,7 @@ public class DemoApplication {
 		System.out.println("welcome to devops");
 		System.out.println("welcome to pr in devops");
 
-		return "Hello  azure cloud World logs Updated !!!!!!!";
+		return "Hello  azure cloud World logs Updated small change!!!!!!!";
 		
 		
 	}
