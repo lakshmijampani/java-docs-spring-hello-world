@@ -21,6 +21,5 @@ public class DemoApplication {
 
 		return "Hello  azure cloud World logs Updated with small change!!!!!!!";
 		
-		
 	}
 }
